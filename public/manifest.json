@@ -1,0 +1,10 @@
+{
+  "name": "MASTER SHEETS",
+  "short_name": "MASTER SHEETS",
+  "description": "বাংলা স্প্রেডশিট",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f6",
+  "theme_color": "#176b50",
+  "icons": []
+}
